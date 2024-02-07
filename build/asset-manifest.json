@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/punarvi_shopping/static/css/main.ddca597e.css",
+    "main.js": "/punarvi_shopping/static/js/main.f400690c.js",
+    "static/media/kids.jpeg": "/punarvi_shopping/static/media/kids.897e43223389ff9c63fb.jpeg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/punarvi_shopping/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/women.jpeg": "/punarvi_shopping/static/media/women.931c65464c735e5df103.jpeg",
+    "static/media/jewelry.jpeg": "/punarvi_shopping/static/media/jewelry.0089eb51452dafbdfdc5.jpeg",
+    "static/media/fontawesome-webfont.eot": "/punarvi_shopping/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/punarvi_shopping/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/punarvi_shopping/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/punarvi_shopping/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/punarvibannerindia.jpeg": "/punarvi_shopping/static/media/punarvibannerindia.8c5ad12a8f156a063e8d.jpeg",
+    "index.html": "/punarvi_shopping/index.html",
+    "main.ddca597e.css.map": "/punarvi_shopping/static/css/main.ddca597e.css.map",
+    "main.f400690c.js.map": "/punarvi_shopping/static/js/main.f400690c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddca597e.css",
+    "static/js/main.f400690c.js"
+  ]
+}
