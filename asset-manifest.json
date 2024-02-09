@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/punarvi_shopping/static/css/main.bc38a861.css",
-    "main.js": "/punarvi_shopping/static/js/main.8276c57d.js",
+    "main.js": "/punarvi_shopping/static/js/main.5736c5a3.js",
     "static/media/banner3.jpg": "/punarvi_shopping/static/media/banner3.9ab05bf3a5d68e110438.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/punarvi_shopping/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/lehanga.jpeg": "/punarvi_shopping/static/media/lehanga.f0fcc11312e0773bce7c.jpeg",
@@ -30,10 +30,10 @@
     "static/media/indianflag.webp": "/punarvi_shopping/static/media/indianflag.90ae6ce10e799e3475e1.webp",
     "index.html": "/punarvi_shopping/index.html",
     "main.bc38a861.css.map": "/punarvi_shopping/static/css/main.bc38a861.css.map",
-    "main.8276c57d.js.map": "/punarvi_shopping/static/js/main.8276c57d.js.map"
+    "main.5736c5a3.js.map": "/punarvi_shopping/static/js/main.5736c5a3.js.map"
   },
   "entrypoints": [
     "static/css/main.bc38a861.css",
-    "static/js/main.8276c57d.js"
+    "static/js/main.5736c5a3.js"
   ]
 }
